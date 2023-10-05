@@ -9,14 +9,6 @@ const SocialMediaIcons = () => {
       >
         <img alt="linkedin-link" src="../assets/linkedin.png" />
       </a>
-      {/*<a*/}
-      {/*  className="hover:opacity-50 transition duration-500"*/}
-      {/*  href="https://www.twitter.com"*/}
-      {/*  target="_blank"*/}
-      {/*  rel="noreferrer"*/}
-      {/*>*/}
-      {/*  <img alt="twitter-link" src="../assets/twitter.png" />*/}
-      {/*</a>*/}
       <a
         className="hover:opacity-50 transition duration-500"
         href="https://www.facebook.com/oleksandr.kostiushko.9"
